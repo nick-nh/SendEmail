@@ -11,12 +11,19 @@ if path in args then will send text from that file or text from all files from f
 Settings in SendEmail.ini file that should be beside SendEmail.exe file
 
 sender= sender@yandex.ru
+
 recipient= to@gmail.com
+
 copy= copy@yandex.ru; copy2@yandex.ru
+
 email_subject= Message from Quik
+
 smtpServer= smtp.yandex.ru
+
 serverPort= 587
+
 login= login
+
 password= pass
 
 Optional settings in ini file:
