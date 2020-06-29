@@ -1,0 +1,7 @@
+D:\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+D:\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+D:\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+D:\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+D:\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+D:\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+D:\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
